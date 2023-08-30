@@ -1,16 +1,32 @@
-# fast_nuces_gpa_calculator
+# Project Name - Flutter App
 
-A new Flutter project.
+## Introduction
 
-## Getting Started
+This repository contains a Flutter app project developed using the Dart programming language. The app aims to provide efficient GUI and accurate result.
 
-This project is a starting point for a Flutter application.
+## Table of Contents
 
-A few resources to get you started if this is your first Flutter project:
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Usage](#usage)
+- [Contributors](#contributors)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Feature 1**: [There is 100% accurate result available for not only fastian but for all universities students also]
+- **Feature 2**: [Fastians can see their grading scheme also there.]
+
+## Screenshots
+
+![Screenshot 1](assets/images/img.png)
+
+## Usage
+
+1. **Run the App**: `flutter run`
+2. [You can run app using Android Studio/VS Code.]
+
+## Contributors
+
+- [Talha Shahid](https://github.com/Talha-Shahid12)
+
+
