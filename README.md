@@ -18,7 +18,11 @@ This repository contains a Flutter app project developed using the Dart programm
 
 ## Screenshots
 
-![Screenshot 1](assets/images/img.png)
+![Screenshot 1](assets/images/1.jpg)
+![Screenshot 1](assets/images/2.jpg)
+![Screenshot 1](assets/images/3.jpg)
+![Screenshot 1](assets/images/4.jpg)
+![Screenshot 1](assets/images/5.jpg)
 
 ## Usage
 
